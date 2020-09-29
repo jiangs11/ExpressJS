@@ -1,5 +1,5 @@
 {
-  "name": "ExpressJS",
+  "name": "express.js",
   "version": "1.0.0",
   "description": "Simple Express.js application template",
   "main": "index.js",
